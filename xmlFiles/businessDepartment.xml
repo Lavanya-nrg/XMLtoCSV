@@ -1,0 +1,32 @@
+<university>
+    <faculty>
+        <id>3</id>
+        <name>Faculty of Business</name>
+        <dean>
+            <name>Sarah Williams</name>
+            <email>sarah.williams@example.com</email>
+        </dean>
+        <departments>
+            <department>
+                <id>301</id>
+                <name>Business Administration</name>
+                <head>
+                    <name>Michael Green</name>
+                    <email>michael.green@example.com</email>
+                </head>
+                <courses>
+                    <course>
+                        <id>BA101</id>
+                        <title>Introduction to Business</title>
+                        <instructor>Professor C</instructor>
+                    </course>
+                    <course>
+                        <id>BA102</id>
+                        <title>Marketing Fundamentals</title>
+                        <instructor>Professor D</instructor>
+                    </course>
+                </courses>
+            </department>
+        </departments>
+    </faculty>
+</university>

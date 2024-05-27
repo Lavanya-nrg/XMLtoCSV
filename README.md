@@ -19,7 +19,7 @@ git clone https://github.com/your-username/xml-to-csv-converter.git
 
 **Install Dependencies:** Ensure you have Python installed on your system. No additional dependencies are required to run the converter script.
 
-**Prepare XML Files:** Place your XML files in the specified input folder. These XML files should contain the data that you wish to convert to CS**V format.
+**Prepare XML Files:** Place your XML files in the specified input folder. These XML files should contain the data that you wish to convert to CSV format.
 
 **Run the Script:** Execute the Python script to convert the XML files to CSV format. Adjust the input and output folder paths as needed by modifying the conversion.py script.
 

@@ -1,0 +1,32 @@
+<university>
+    <faculty>
+        <id>1</id>
+        <name>Faculty of Engineering</name>
+        <dean>
+            <name>John Doe</name>
+            <email>john.doe@example.com</email>
+        </dean>
+        <departments>
+            <department>
+                <id>101</id>
+                <name>Computer Science</name>
+                <head>
+                    <name>Alice Smith</name>
+                    <email>alice.smith@example.com</email>
+                </head>
+                <courses>
+                    <course>
+                        <id>CS101</id>
+                        <title>Introduction to Computer Science</title>
+                        <instructor>Professor X</instructor>
+                    </course>
+                    <course>
+                        <id>CS102</id>
+                        <title>Data Structures</title>
+                        <instructor>Professor Y</instructor>
+                    </course>
+                </courses>
+            </department>
+        </departments>
+    </faculty>
+</university>

@@ -1,0 +1,32 @@
+<university>
+    <faculty>
+        <id>2</id>
+        <name>Faculty of Medicine</name>
+        <dean>
+            <name>Emily Johnson</name>
+            <email>emily.johnson@example.com</email>
+        </dean>
+        <departments>
+            <department>
+                <id>201</id>
+                <name>Medicine</name>
+                <head>
+                    <name>David Brown</name>
+                    <email>david.brown@example.com</email>
+                </head>
+                <courses>
+                    <course>
+                        <id>MED101</id>
+                        <title>Anatomy</title>
+                        <instructor>Professor A</instructor>
+                    </course>
+                    <course>
+                        <id>MED102</id>
+                        <title>Physiology</title>
+                        <instructor>Professor B</instructor>
+                    </course>
+                </courses>
+            </department>
+        </departments>
+    </faculty>
+</university>

@@ -15,7 +15,7 @@ The XML to CSV Converter is a Python script designed to facilitate the conversio
 
   bash
 
-git clone https://github.com/your-username/xml-to-csv-converter.git
+git clone https://github.com/Lavanya-nrg/XMLtoCSV.git
 
 **Install Dependencies:** Ensure you have Python installed on your system. No additional dependencies are required to run the converter script.
 
